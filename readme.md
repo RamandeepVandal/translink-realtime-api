@@ -1,4 +1,4 @@
-### Real-time Transit Information Front-End Project
+# Real-time Transit Information Front-End Project
 This is a front-end project that uses the Real-time Transit Information REST API to allow users to search for transit routes and view current bus information.
 
 ## Getting Started
